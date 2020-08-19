@@ -45,31 +45,7 @@ body {
     border-radius: 15px;
 }
 
-/* my extra layout */
-#songSuggestionList,
-#lyricsSongSuggestionList,
-#lyricsContent {
-    display: none;
-}
-
-.lyricsContent {
-    text-align: justify;
-    margin: 5%;
-}
-
-.playLyrics {
-    margin-left: 15px;
-    outline: none;
-    border: none;
-    border-radius: 20px;
-    padding: 0 18px;
-    font-weight: 200;
-    background: rgba(144, 233, 93, 0.5);
-    color: white;
-    text-align: center;
-}
-
-.playLyrics a {
-    text-decoration: none;
-    color: white
+.album-image img {
+    width: 100%;
+    border-radius: 10px;
 }
